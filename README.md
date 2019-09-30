@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hacktoberfest19 </h2>
 
-<p align = "center" > Welcome to the Hacktoberfest </p>
+<h3 align = "center" > Welcome to the Hacktoberfest </h3>
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-### Steps to get started
+### Steps to get started:
 * Register [here](https://hacktoberfest.digitalocean.com/)
 * Fork this repo
 * Edit the [CONTRIBUTORS.md](./CONTRIBUTORS.md) of your fork
