@@ -13,5 +13,8 @@ Add your name to the list below, and send a PR
 | Ubaid Usmani  | [Geek-ubaid](https://github.com/Geek-ubaid) |
 | Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
 | Shubhayan Saha | [shubhayans](https://github.com/shubhayans) |
+| Saurav M. H | [sauravhiremath](https://github.com/sauravhiremath) |
 | Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998) |
 | Dipto Chakrabarty | [DiptoChakrabarty](https://github.com/DiptoChakrabarty) |
+| Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
+| Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
