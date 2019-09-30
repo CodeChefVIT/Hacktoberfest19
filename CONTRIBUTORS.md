@@ -10,3 +10,4 @@ Add your name to the list below, and send a PR
 | Subhra Paladhi | [subhrapaladhi](https://github.com/subhrapaladhi)|
 | Hardik Aggarwal | [hardik_kgp](https://github.com/hardik_kgp) |
 | Yash Mehrotra |   [YashMeh](https://github.com/YashMeh)           |
+| Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
