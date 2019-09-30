@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hacktoberfest19 </h2>
 
-<p align = "center" > Welcome to the Hacktoberfest </p>
+<h3 align = "center" > Welcome to the Hacktoberfest </h3>
 
 <br>
 
