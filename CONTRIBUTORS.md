@@ -13,4 +13,4 @@ Add your name to the list below, and send a PR
 | Ubaid Usmani  | [Geek-ubaid](https://github.com/Geek-ubaid) |
 | Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
 | Shubhayan Saha | [shubhayans](https://github.com/shubhayans) |
-| Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998)
+| Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998) |
