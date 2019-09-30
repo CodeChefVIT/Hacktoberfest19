@@ -17,3 +17,4 @@ Add your name to the list below, and send a PR
 | Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998) |
 | Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
 | Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
+| Likhit Garimella | [likhitgarimella](https://github.com/likhitgarimella) |
