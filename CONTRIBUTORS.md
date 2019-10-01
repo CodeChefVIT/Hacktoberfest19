@@ -53,3 +53,4 @@ Add your name to the list below, and send a PR
 | Jussara | [jussararodrigues](https://github.com/jussararodrigues) |
 | Arjun Agarwal | [agarwalarjun123](http://github.com/agarwalarjun123) |
 | Sumanth Vadde | [SumanthVadde](https://github.com/SumanthVadde) |
+| Harjyot Bagga | [imharjyotbagga](https://github.com/imharjyotbagga) |
