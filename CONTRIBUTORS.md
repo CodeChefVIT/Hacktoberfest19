@@ -26,6 +26,7 @@ Add your name to the list below, and send a PR
 | Shreya Chatterjee | [Shreya549](https://github.com/Shreya549) |
 | Kratu Sharma | [kratusharma](https://github.com/kratusharma) |
 | Saumya Verma | [CmdrSam](https://github.com/CmdrSam) |
+| Sudesh Kumar | [Sudesh1611](https://github.com/sudesh1611) |
 | Anuj Kapoor | [anujkap](https://github.com/anujkap) |
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
