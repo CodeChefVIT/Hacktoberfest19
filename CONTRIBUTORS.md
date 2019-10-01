@@ -34,3 +34,4 @@ Add your name to the list below, and send a PR
 | Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
 | Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
+| Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
