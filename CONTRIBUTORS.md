@@ -28,3 +28,4 @@ Add your name to the list below, and send a PR
 | Anuj Kapoor | [anujkap](https://github.com/anujkap) |
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
+| Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
