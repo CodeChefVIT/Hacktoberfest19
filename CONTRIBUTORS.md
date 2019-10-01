@@ -33,3 +33,4 @@ Add your name to the list below, and send a PR
 | Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
 | Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
+| Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
