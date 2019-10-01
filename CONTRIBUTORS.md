@@ -20,6 +20,7 @@ Add your name to the list below, and send a PR
 | Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
 | Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
 | Saumya Verma | [CmdrSam](https://github.com/CmdrSam) |
+| Sudesh Kumar | [Sudesh1611](https://github.com/sudesh1611) |
 | Anuj Kapoor | [anujkap](https://github.com/anujkap) |
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
