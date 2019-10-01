@@ -49,6 +49,7 @@ Add your name to the list below, and send a PR
 | Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
 | Grace So | [graceso](https://github.com/graceso) |
 | Udit Namdev | [unamdev0](https://github.com/unamdev0) |
+| Pranjal Srivastava | [pranjalsrv](https://github.com/pranjalsrv) |
 | Jussara | [jussararodrigues](https://github.com/jussararodrigues) |
 | Arjun Agarwal | [agarwalarjun123](http://github.com/agarwalarjun123) |
 | Sumanth Vadde | [SumanthVadde](https://github.com/SumanthVadde) |
