@@ -37,4 +37,5 @@ Add your name to the list below, and send a PR
 | Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
 | Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
+| Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
 
