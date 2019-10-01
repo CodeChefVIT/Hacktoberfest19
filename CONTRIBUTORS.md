@@ -12,6 +12,7 @@ Add your name to the list below, and send a PR
 | Hardik Aggarwal | [hardik_kgp](https://github.com/hardik_kgp) |
 | Yash Mehrotra |   [YashMeh](https://github.com/YashMeh)           |
 | Ubaid Usmani  | [Geek-ubaid](https://github.com/Geek-ubaid) |
+| helloworld5653 | [helloworld5653](https://github.com/helloworld5653) |
 | Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
 | Shubhayan Saha | [shubhayans](https://github.com/shubhayans) |
 | Ishan Gupta | [ishan2205](https://github.com/ishan2205) |
@@ -46,3 +47,23 @@ Add your name to the list below, and send a PR
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
 | Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
 | Arshdeep Singh | [Arshrock](https://github.com/Arshrock) |
+| Grace So | [graceso](https://github.com/graceso) |
+| Udit Namdev | [unamdev0](https://github.com/unamdev0) |
+| Pranjal Srivastava | [pranjalsrv](https://github.com/pranjalsrv) |
+| Jussara | [jussararodrigues](https://github.com/jussararodrigues) |
+| Arjun Agarwal | [agarwalarjun123](http://github.com/agarwalarjun123) |
+| Sumanth Vadde | [SumanthVadde](https://github.com/SumanthVadde) |
+| Tanishk Aggarwal | [tanishk1999](https://github.com/tanishk1999) |
+| Harjyot Bagga | [imharjyotbagga](https://github.com/imharjyotbagga) |
+| Vaibhav Bhardwaj | [vaibhavbhj](https://github.com/vaibhavbhj) |
+| Rakshit Malhotra | [Raks-coder](https://github.com/Raks-coder) |
+| Abhinav A S | [amilaneni99](https://github.com/amilaneni99) |
+| Umang Agarwal | [umangagarwal11](https://github.com/umangagarwal11) |
+| Adit Pabbi | [adirids](https://github.com/adirids) |
+| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
+| Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
+| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
+| Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
+| Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
+| Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
+| Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
