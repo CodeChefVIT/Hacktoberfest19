@@ -61,5 +61,7 @@ Add your name to the list below, and send a PR
 | Umang Agarwal | [umangagarwal11](https://github.com/umangagarwal11) |
 | Adit Pabbi | [adirids](https://github.com/adirids) |
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
+| Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
+| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
 | Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
