@@ -66,3 +66,4 @@ Add your name to the list below, and send a PR
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
 | Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
 | Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
+| Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
