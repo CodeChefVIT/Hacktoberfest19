@@ -67,3 +67,4 @@ Add your name to the list below, and send a PR
 | Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
 | Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
 | Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
+| George Zadorozhny | [SirJoraH21](https://github.com/SirJoraH21) |
