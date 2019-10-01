@@ -56,3 +56,8 @@ Add your name to the list below, and send a PR
 | Tanishk Aggarwal | [tanishk1999](https://github.com/tanishk1999) |
 | Harjyot Bagga | [imharjyotbagga](https://github.com/imharjyotbagga) |
 | Vaibhav Bhardwaj | [vaibhavbhj](https://github.com/vaibhavbhj) |
+| Rakshit Malhotra | [Raks-coder](https://github.com/Raks-coder) |
+| Abhinav A S | [amilaneni99](https://github.com/amilaneni99) |
+| Umang Agarwal | [umangagarwal11](https://github.com/umangagarwal11) |
+| Adit Pabbi | [adirids](https://github.com/adirids) |
+| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128)
