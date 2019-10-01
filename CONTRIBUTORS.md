@@ -14,6 +14,7 @@ Add your name to the list below, and send a PR
 | Ubaid Usmani  | [Geek-ubaid](https://github.com/Geek-ubaid) |
 | Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
 | Shubhayan Saha | [shubhayans](https://github.com/shubhayans) |
+| Ishan Gupta | [ishan2205](https://github.com/ishan2205) |
 | Saurav M. H | [sauravhiremath](https://github.com/sauravhiremath) |
 | Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998) |
 | Dipto Chakrabarty | [DiptoChakrabarty](https://github.com/DiptoChakrabarty) |
@@ -32,3 +33,15 @@ Add your name to the list below, and send a PR
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
 | Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
 | Nishant Raj | [Nishant Raj](https://github.com/coolnishant) |
+| Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
+| Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
+| Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
+| Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
+| Vatsal Chandra| [vatsal-chandra](https://github.com/vatsal-chandra)|
+| Bhavesh Goyal | [bhaveshgoyal277](https://github.com/bhaveshgoyal27)|
+| Pratik Goutam | [MehulAgarwal07](https://github.com/pratikgtm)|
+| Anurag Bhardwaj | [ABX9801](https://github.com/ABX9801)|
+| Navyaa Sharma | [NavyaaSharma](https://github.com/NavyaaSharma) |
+| Sahil Aggarwal | [Sahil0078](https://github.com/sahil0078)|
+| Akshat Pethiya | [akshatje](https://github.com/akshatje)|
+| Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
