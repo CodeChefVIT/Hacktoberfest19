@@ -38,4 +38,5 @@ Add your name to the list below, and send a PR
 | Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
 | Sahil Aggarwal | [Sahil0078](https://github.com/sahil0078)|
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
+| Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
 
