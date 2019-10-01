@@ -33,7 +33,6 @@ Add your name to the list below, and send a PR
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
 | Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
-| Vishvam Vyas | [VVishvam](https://github.com/VVIshvam) |
 | Nishant Raj | [Nishant Raj](https://github.com/coolnishant) |
 | Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
@@ -47,6 +46,7 @@ Add your name to the list below, and send a PR
 | Sahil Aggarwal | [Sahil0078](https://github.com/sahil0078)|
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
 | Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
+| Arshdeep Singh | [Arshrock](https://github.com/Arshrock) |
 | Grace So | [graceso](https://github.com/graceso) |
 | Udit Namdev | [unamdev0](https://github.com/unamdev0) |
 | Pranjal Srivastava | [pranjalsrv](https://github.com/pranjalsrv) |
