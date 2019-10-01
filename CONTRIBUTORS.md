@@ -36,8 +36,8 @@ Add your name to the list below, and send a PR
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
 | Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
 | Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
+| Anurag Bhardwaj | [ABX9801](https://github.com/ABX9801)|
 | Navyaa Sharma | [NavyaaSharma](https://github.com/NavyaaSharma) |
 | Sahil Aggarwal | [Sahil0078](https://github.com/sahil0078)|
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
 | Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
-
