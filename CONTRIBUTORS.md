@@ -47,3 +47,4 @@ Add your name to the list below, and send a PR
 | Akshat Pethiya | [akshatje](https://github.com/akshatje)|
 | Kunal Singh | [TheG0dfath3r](https://github.com/TheG0dfath3r) |
 | Grace So | [graceso](https://github.com/graceso) |
+| Udit Namdev | [unamdev0](https://github.com/unamdev0) |
