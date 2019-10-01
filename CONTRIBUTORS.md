@@ -14,6 +14,7 @@ Add your name to the list below, and send a PR
 | Ubaid Usmani  | [Geek-ubaid](https://github.com/Geek-ubaid) |
 | Priyank Kaushik |   [PriyankVIT](https://github.com/PriyankVIT)   |
 | Shubhayan Saha | [shubhayans](https://github.com/shubhayans) |
+| Ishan Gupta | [ishan2205](https://github.com/ishan2205) |
 | Saurav M. H | [sauravhiremath](https://github.com/sauravhiremath) |
 | Shaswat Srivastava | [shaswatsunny1998](https://github.com/shaswatsunny1998) |
 | Dipto Chakrabarty | [DiptoChakrabarty](https://github.com/DiptoChakrabarty) |
@@ -35,3 +36,4 @@ Add your name to the list below, and send a PR
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
 | Pranav Daruwala | [prvdaru](https://github.com/prvdaru) |
 | Mehul Agarwal | [MehulAgarwal07](https://github.com/MehulAgarwal07)|
+
