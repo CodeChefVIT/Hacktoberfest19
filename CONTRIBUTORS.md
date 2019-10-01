@@ -19,6 +19,7 @@ Add your name to the list below, and send a PR
 | Dipto Chakrabarty | [DiptoChakrabarty](https://github.com/DiptoChakrabarty) |
 | Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
 | Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
+| Shreya Chatterjee | [Shreya549](https://github.com/Shreya549) |
 | Kratu Sharma | [kratusharma](https://github.com/kratusharma) |
 | Saumya Verma | [CmdrSam](https://github.com/CmdrSam) |
 | Anuj Kapoor | [anujkap](https://github.com/anujkap) |
