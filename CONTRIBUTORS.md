@@ -65,3 +65,4 @@ Add your name to the list below, and send a PR
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
 | Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
+| Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
