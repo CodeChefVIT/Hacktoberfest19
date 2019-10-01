@@ -19,4 +19,5 @@ Add your name to the list below, and send a PR
 | Dipto Chakrabarty | [DiptoChakrabarty](https://github.com/DiptoChakrabarty) |
 | Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
 | Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
+| Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
