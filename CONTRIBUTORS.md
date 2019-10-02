@@ -82,12 +82,12 @@ Add your name to the list below, and send a PR
 | Deepesh Baid | [deepeshbaid](https://github.com/deepeshbaid) |
 | Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
 | Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
-| Rajesh Alane | [rajeshalane] (https://github.com/rajeshalane) |
+| Rajesh Alane | [rajeshalane](https://github.com/rajeshalane) |
 | Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
 | Urvashi Gupta |[urvashigupta7](https://github.com/urvashigupta7) |
-| Ayush Tripathi | [ayush998] (https://github.com/ayush998) |
-| Trippy | [trippy123] (https://github.com/trippy123) |
-| The Unknown | [the_Unknown] (https://github.com/the_Unknown) |
+| Ayush Tripathi | [ayush998](https://github.com/ayush998) |
+| Trippy | [trippy123](https://github.com/trippy123) |
+| The Unknown | [the_Unknown](https://github.com/the_Unknown) |
 | Kshitij Mishra | [kshitij299](https://github.com/kshitij299) |
 | Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
 | Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
