@@ -79,5 +79,6 @@ Add your name to the list below, and send a PR
 | Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
 | Rajesh Alane | [rajeshalane] (https://github.com/rajeshalane) |
 | Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
+| Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
 | Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
 | Sneha Raina | [SnehaR26](https://github.com/SnehaR26)
