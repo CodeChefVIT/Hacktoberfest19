@@ -69,3 +69,4 @@ Add your name to the list below, and send a PR
 | Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
 | Dominic Frischknecht | [LordBrud](https://github.com/LordBrud) |
 | George Zadorozhny | [SirJoraH21](https://github.com/SirJoraH21) |
+| Tom Dell | [Tom-Dell](https://github.com/tom-dell/) | 
