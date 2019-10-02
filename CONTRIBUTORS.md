@@ -33,6 +33,7 @@ Add your name to the list below, and send a PR
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
 | Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
+| Kevin Dorner | [mrhspecter](https://github.com/mrhspecter) |
 | Nishant Raj | [Nishant Raj](https://github.com/coolnishant) |
 | Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
@@ -62,7 +63,6 @@ Add your name to the list below, and send a PR
 | Adit Pabbi | [adirids](https://github.com/adirids) |
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
-| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
 | Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
 | Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
@@ -75,3 +75,20 @@ Add your name to the list below, and send a PR
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Tarun Jain | [tarun885](https://github.com/tarun885) |
 | Iishi Patel | [iishipatel](https://github.com/iishipatel) |
+| Piyush Bajaj | [piyushxbajaj](https://github.com/piyushxbajaj) |
+| Anonymouse | [anonymouse-bleep](https://github.com/anonymouse-bleep) |
+| Caio Perd | [perdona](https://github.com/perdona) |
+| Athul CS | [athulcs](https://github.com/athulcs) |
+| Deepesh Baid | [deepeshbaid](https://github.com/deepeshbaid) |
+| Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
+| Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
+| Rajesh Alane | [rajeshalane] (https://github.com/rajeshalane) |
+| Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
+| Urvashi Gupta |[urvashigupta7](https://github.com/urvashigupta7) |
+| Ayush Tripathi | [ayush998] (https://github.com/ayush998) |
+| Trippy | [trippy123] (https://github.com/trippy123) |
+| The Unknown | [the_Unknown] (https://github.com/the_Unknown) |
+| Kshitij Mishra | [kshitij299](https://github.com/kshitij299) |
+| Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
+| Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
+| Sneha Raina | [SnehaR26](https://github.com/SnehaR26) | 
