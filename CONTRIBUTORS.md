@@ -74,6 +74,7 @@ Add your name to the list below, and send a PR
 | Udai Agarwal | [UdaiAgarwal](https://github.com/UdaiAgarwal) |
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Tarun Jain | [tarun885](https://github.com/tarun885) |
+| Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
 | Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
 | Rajesh Alane | [rajeshalane] (https://github.com/rajeshalane) |
 | Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
