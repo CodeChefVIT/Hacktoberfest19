@@ -79,3 +79,6 @@ Add your name to the list below, and send a PR
 | Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
 | Rajesh Alane | [rajeshalane] (https://github.com/rajeshalane) |
 | Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
+| Ayush Tripathi | [ayush998] (https://github.com/ayush998) |
+| Trippy | [trippy123] (https://github.com/trippy123) |
+| The Unknown | [the_Unknown] (https://github.com/the_Unknown)
