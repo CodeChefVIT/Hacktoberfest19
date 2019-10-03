@@ -93,3 +93,6 @@ Add your name to the list below, and send a PR
 | Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
 | Sneha Raina | [SnehaR26](https://github.com/SnehaR26) | 
 | Baecon | [Baecon](https://github.com/Baecon) | 
+| Elfin Sanjaya| [elfinsanjaya12](https://github.com/elfinsanjaya12) | 
+| Debajit Chakraborty | [debajit15kgp](https://github.com/debajit15kgp) |
+| S.Ramaneswaran | [ramaneswaran](https://github.com/ramaneswaran)|
