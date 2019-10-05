@@ -96,6 +96,8 @@ Add your name to the list below, and send a PR
 | Elfin Sanjaya| [elfinsanjaya12](https://github.com/elfinsanjaya12) | 
 | Debajit Chakraborty | [debajit15kgp](https://github.com/debajit15kgp) |
 | S.Ramaneswaran | [ramaneswaran](https://github.com/ramaneswaran)|
+| Vaibhav Pandey | [vaibhav12] (https://github.com/vaibhav12) |
+| Kartik Sharma | [kar234] (https://github.com/kar234) |
 | P.Suresh Kumar | [sureshpathipati](https://github.com/sureshpathipati)|
 | Ramiz Khan | [ramizkhan99](https://github.com/ramizkhan99)|
 | Raunak Banerjee | [BanerjeeRaunak99](https://github.com/BanerjeeRaunak99) |
