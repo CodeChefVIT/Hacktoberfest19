@@ -102,3 +102,4 @@ Add your name to the list below, and send a PR
 | KalyanVemuri | [Kalyan](https://github.com/KalyanVem)|
 | yash surya | [yashsurya1105](https://github.com/yashsurya)|
 | Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
+| Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
