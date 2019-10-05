@@ -119,3 +119,4 @@ Add your name to the list below, and send a PR
 | william eileen | [wicsm29](https://github.com/wicsm29)|
 | Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
 | Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
+| Bozhidar Kirev | [BKirev](https://github.com/BKirev)|
