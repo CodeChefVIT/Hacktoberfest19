@@ -2,7 +2,7 @@
 
 Add your name to the list below, and send a PR
 
-| Name | Github profile | 
+| Name | Github profile |
 |:----:|:--------------:|
 | Angad Sharma | [L04DB4L4NC3R](https://github.com/L04DB4L4NC3R) |
 | Divyansh Khandelwal | [noob-master147](https://github.com/noob-master147)|
@@ -64,13 +64,13 @@ Add your name to the list below, and send a PR
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
-| Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
+| Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) |
 | Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
 | Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
 | Dominic Frischknecht | [LordBrud](https://github.com/LordBrud) |
 | George Zadorozhny | [SirJoraH21](https://github.com/SirJoraH21) |
 | Matt X | [mxcul1](https://github.com/mxcul1) |
-| Tom Dell | [Tom-Dell](https://github.com/tom-dell/) | 
+| Tom Dell | [Tom-Dell](https://github.com/tom-dell/) |
 | Udai Agarwal | [UdaiAgarwal](https://github.com/UdaiAgarwal) |
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Tarun Jain | [tarun885](https://github.com/tarun885) |
@@ -91,9 +91,9 @@ Add your name to the list below, and send a PR
 | Kshitij Mishra | [kshitij299](https://github.com/kshitij299) |
 | Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
 | Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
-| Sneha Raina | [SnehaR26](https://github.com/SnehaR26) | 
-| Baecon | [Baecon](https://github.com/Baecon) | 
-| Elfin Sanjaya| [elfinsanjaya12](https://github.com/elfinsanjaya12) | 
+| Sneha Raina | [SnehaR26](https://github.com/SnehaR26) |
+| Baecon | [Baecon](https://github.com/Baecon) |
+| Elfin Sanjaya| [elfinsanjaya12](https://github.com/elfinsanjaya12) |
 | Debajit Chakraborty | [debajit15kgp](https://github.com/debajit15kgp) |
 | S.Ramaneswaran | [ramaneswaran](https://github.com/ramaneswaran)|
 | Babak | [BabakMoeinifar](https://github.com/BabakMoeinifar)|
@@ -120,5 +120,6 @@ Add your name to the list below, and send a PR
 | Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
 | Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
 | Bozhidar Kirev | [BKirev](https://github.com/BKirev)|
+| Yavonix | [Namor888](https://github.com/Namor888)|
 | Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
 | Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
