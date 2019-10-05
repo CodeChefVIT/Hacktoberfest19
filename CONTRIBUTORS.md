@@ -120,4 +120,5 @@ Add your name to the list below, and send a PR
 | Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
 | Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
 | Bozhidar Kirev | [BKirev](https://github.com/BKirev)|
+| Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
 | Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
