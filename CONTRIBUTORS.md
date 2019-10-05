@@ -97,8 +97,12 @@ Add your name to the list below, and send a PR
 | Debajit Chakraborty | [debajit15kgp](https://github.com/debajit15kgp) |
 | S.Ramaneswaran | [ramaneswaran](https://github.com/ramaneswaran)|
 | Ramiz Khan | [ramizkhan99](https://github.com/ramizkhan99)|
-|Raunak Banerjee | [BanerjeeRaunak99](https://github.com/BanerjeeRaunak99) |
+| Raunak Banerjee | [BanerjeeRaunak99](https://github.com/BanerjeeRaunak99) |
 | Aditya Nalini | [adinalini](https://github.com/adinalini)|
 | KalyanVemuri | [Kalyan](https://github.com/KalyanVem)|
 | yash surya | [yashsurya1105](https://github.com/yashsurya)|
 | Siva Subramanian | [sivasubramanian95](https://github.com/sivasubramanian95) |
+| Ivan Elv | [ivanelv](https://github.com/ivanelv)|
+| william eileen | [wicsm29](https://github.com/wicsm29)|
+| Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
+| Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
