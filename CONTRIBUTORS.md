@@ -105,8 +105,8 @@ Add your name to the list below, and send a PR
 | O.Charles Tochukwu | [charlyTochi/](https://github.com/charlyTochi) |
 | Suryakant Pandey| [suryakantpandey](https://github.com/suryakantpandey) |
 |Abhinav . Gorantla|[AbhinavGor](https://github.com/AbhinavGor)|
-| Vaibhav Pandey | [vaibhav12] (https://github.com/vaibhav12) |
-| Kartik Sharma | [kar234] (https://github.com/kar234) |
+| Vaibhav Pandey | [vaibhav12](https://github.com/vaibhav12) |
+| Kartik Sharma | [kar234](https://github.com/kar234) |
 | P.Suresh Kumar | [sureshpathipati](https://github.com/sureshpathipati)|
 | Ramiz Khan | [ramizkhan99](https://github.com/ramizkhan99)|
 | Raunak Banerjee | [BanerjeeRaunak99](https://github.com/BanerjeeRaunak99) |
