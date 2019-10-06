@@ -121,6 +121,8 @@ Add your name to the list below, and send a PR
 | Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
 | Bozhidar Kirev | [BKirev](https://github.com/BKirev)|
 | Yavonix | [Namor888](https://github.com/Namor888)|
+| tmttan03 | [tmttan03](https://github.com/tmttan03)|
 | Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
 | Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
 | Tanmay Arora | [sinbycosmay](https://github.com/sinbycosmay)|
+| Rafli Ramadhan | [raflidev](https://github.com/raflidev)|
