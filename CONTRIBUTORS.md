@@ -124,5 +124,6 @@ Add your name to the list below, and send a PR
 | tmttan03 | [tmttan03](https://github.com/tmttan03)|
 | Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
 | Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
+| Arman Singh | [armansingh7982](https://github.com/armansingh7982)|
 | Tanmay Arora | [sinbycosmay](https://github.com/sinbycosmay)|
 | Rafli Ramadhan | [raflidev](https://github.com/raflidev)|
