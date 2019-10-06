@@ -124,4 +124,6 @@ Add your name to the list below, and send a PR
 | Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
 | Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
 
-| Shubham Verma |[shubhamvrm] (https://github.com/shubhamvrm)|
+
+
+| Shubham Verma | [shubhamvrm](https://github.com/shubhamvrm)|
