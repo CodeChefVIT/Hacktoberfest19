@@ -131,3 +131,9 @@ Add your name to the list below, and send a PR
 | V Sriram | [sriram-8](https://github.com/sriram-8) |
 |srinija ramichetty|[sramichetty](https://github.com/sramichetty)|
 |Goutham|[G0utham15](https://github.com/G0utham15)|
+| Akshat Mishra |[RoXie124](https://github.com/RoXie124)|
+|vedant pople|[vedantpople4](https://github.com/vedantpople4)|
+|Rishi Ranjan|[Rishi425](Https://GitHub.com/Rishi425)|
+|Vedant pople|[vedantpople4](https://github.com/vedantpople4)|
+|Jonathan de Z|[jonathandezoete](https://github.com/jonathandezoete)|
+|Aman Zishan M.A | [codemaniac](https://github.com/Aman-zishan)|
