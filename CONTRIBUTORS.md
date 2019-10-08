@@ -130,5 +130,6 @@ Add your name to the list below, and send a PR
 | Rafli Ramadhan | [raflidev](https://github.com/raflidev)|
 | V Sriram | [sriram-8](https://github.com/sriram-8) |
 |srinija ramichetty|[sramichetty](https://github.com/sramichetty)|
+|Vedant pople|[vedantpople4](https://github.com/vedantpople4)|
 |Jonathan de Z|[jonathandezoete](https://github.com/jonathandezoete)|
 |Aman Zishan M.A | [codemaniac](https://github.com/Aman-zishan)|
