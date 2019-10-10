@@ -36,4 +36,6 @@
 <img src="./static/supercat.gif" />
 </p>
 
-Note: This repo is for learning purposes only. See the [terms](./Terms.md)
+<br>
+
+Note: This repo is for learning purposes only. See the [terms](./TERMS.md)
