@@ -8,6 +8,16 @@
 
 <br>
 
+<h3 align="center"> :x: NOTE: This repo has been excluded from Hacktoberfest.:x:</h3>
+
+---
+
+<h2 align="center"> If you're looking for creating PRs for HacktoberFest, you may look into few good first issues <a href="https://vinitshahdeo.github.io/HacktoberFest2K19/">here</a> which are up for grabs. :heavy_check_mark: </h2>
+
+<h1 align="center">:white_check_mark: <a href="https://github.com/vinitshahdeo/HacktoberFest2K19">Link to the repository</a></h1>
+
+---
+
 > I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do.
 - Linus Torvalds, *Creator of Linux*
 
