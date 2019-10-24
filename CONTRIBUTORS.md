@@ -139,3 +139,4 @@ Add your name to the list below, and send a PR
 |Aman Zishan M.A | [codemaniac](https://github.com/Aman-zishan)|
 |Jose Thomas | [codemaniac](https://github.com/josethomas16@karunya.edu.in)|
 |Mulubwa Chungu | [Mulubwa17](https://github.com/Mulubwa17)|
+|Shreyansh Jain | [jain-shreyansh](https://github.com/jain-shreyansh/)|
